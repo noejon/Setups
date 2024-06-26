@@ -76,3 +76,5 @@ npm i -g pnpm
 I quite like Victor Mono, a nice open source font, that I use for coding.
 
 Once downloaded and unzipped, open `font book` (installed by default on mac) and drag and drop the unzipped Victor Mono folder to it.
+
+## What did I miss?
