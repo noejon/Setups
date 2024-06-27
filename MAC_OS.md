@@ -79,4 +79,8 @@ I quite like Victor Mono, a nice open source font, that I use for coding.
 
 Once downloaded and unzipped, open `font book` (installed by default on mac) and drag and drop the unzipped Victor Mono folder to it.
 
+## Windows Management
+
+For Windows management I use [rectangle](https://rectangleapp.com/)
+
 ## What did I miss?
