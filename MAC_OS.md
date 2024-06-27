@@ -27,9 +27,11 @@ sh -c "$(curl -fsSL <https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/to
 
 ## GIT
 
-Normally comes pre-installed on latest MacOS builds.
+Normally comes pre-installed on latest MacOS builds. In case it does not just follow the [installation instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 ### Connecting to github
+
+I usually always go back to [this page](https://www.atlassian.com/git/tutorials/git-ssh) from Atlassian. I just use a ed25519 key instead as it is shorter and safer and everyone should be using this.
 
 ```zsh
 ssh-keygen -t ed25519 -f ~/.ssh/private-noj -C "Comment for the Key, good to identify it"
